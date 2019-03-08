@@ -29,7 +29,7 @@ dependencies {
 }
 
 android {
-    compileSdkVersion 16    // change it to 16 when SDK is downoaded
+    compileSdkVersion 28    // change it to 16 when SDK is downoaded
 //    buildToolsVersion 22.0
 
     sourceSets {
